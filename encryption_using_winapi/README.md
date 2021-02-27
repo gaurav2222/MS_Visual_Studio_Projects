@@ -11,6 +11,7 @@
                                     generates the output file dapp_encrypted.exe on execution.
 3. dapp_encrypted.exe           ==> Output encrypted file of the sample input file.
 4. src                          ==> This folder contains all source and input files of the final application.
+5. README.md                    ==> Gives the brief details of all the files of this directory.
 </pre>
 </h4>
 
