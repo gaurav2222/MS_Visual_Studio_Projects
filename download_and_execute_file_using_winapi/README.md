@@ -16,7 +16,7 @@
 <h4>
 <pre>
 1. download_and_execute_file_using_winapi.exe    ==> Final application that follows the objective.                 
-2. sample_file.txt                               ==> Output or downloaded file which could be downloaded from ![here](https://www.drive.com/u/1)
+2. sample_file.txt                               ==> Output or downloaded file which could be downloaded from <a href="https://www.drive.google.com/u/1/uc?id=1QcRsZCiD-oScR4VkE4qM6cNy8Crgg5UL&export=download/sample_file.txt">here</a>
 3. src                                           ==> This folder contains all source and input files of the final application.
 4. README.md                                     ==> Gives the brief details of all the files of this directory.
 </pre>
