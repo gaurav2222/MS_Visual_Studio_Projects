@@ -15,11 +15,9 @@
 ##### This directory contains all input files and output files description of which given below:
 <h4>
 <pre>
-1. dapp.exe                     ==> Sample input file to be encrypted.
-2. encryption_using_winapi.exe  ==> Final application that takes input file dapp.exe and 
-                                    generates the output file dapp_encrypted.exe on execution.
-3. dapp_encrypted.exe           ==> Output encrypted file of the sample input file.
-4. src                          ==> This folder contains all source and input files of the final application.
-5. README.md                    ==> Gives the brief details of all the files of this directory.
+1. download_and_execute_file_using_winapi.exe    ==> Final application that follows the objective.                 
+2. sample_file.txt                               ==> Output or downloaded file.
+3. src                                           ==> This folder contains all source files of the final application.
+4. README.md                                     ==> Gives the brief details of all the files of this directory.
 </pre>
 </h4>
