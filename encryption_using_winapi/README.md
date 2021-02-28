@@ -2,6 +2,9 @@
 
 
 **Objective:** Create a program that takes an input file and encrypts it and generates a file.
+<br>
+<br>
+**Working:** The application used Wincrypt API, one of the Windows API used to encrypt and decrypt the file. The application is programmed in CPP Language and built on MS Visual Studio 2019.
 
 ##### This directory contains all input files and output files description of which given below:
 <h4>
