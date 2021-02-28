@@ -1,5 +1,5 @@
 # MS_Visual_Studio_Projects
-### This directory contains few applications developed using several Windows APIs. Objectives of these applications are discussed below:
+#### This directory contains few applications developed using several Windows APIs. Objectives of these applications are discussed below:
 <h4>
 <ol>
   <li> Application to encrypt a file with a password using WinCrypt API.</li>
