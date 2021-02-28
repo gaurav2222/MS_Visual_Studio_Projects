@@ -1,5 +1,5 @@
-# MS_Visual_Studio_Projects
-<h4> <b>This directory contains few applications developed using several Windows APIs. Objectives of these applications are discussed below:</b></h4>
+## MS Visual Studio 2019 Projects
+<h3>This directory contains few applications developed using several Windows APIs. Objectives of these applications are discussed below:</h3>
 <h5>
 <ol>
   <li> Application to encrypt a file with a password using WinCrypt API.</li>
